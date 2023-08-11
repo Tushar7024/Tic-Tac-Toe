@@ -52,8 +52,4 @@ If you have any questions, suggestions, or feedback, please feel free to contact
 - LinkedIn: [https://www.linkedin.com/in/tushar-partiar-b30459255/](https://www.linkedin.com/in/tushar-patidar-b30459255/)
 - GitHub: [https://github.com/Tushar7024](https://github.com/Tushar7024)
 
-<<<<<<< HEAD
-Thank you for choosing the Tic Tac Toe Android App. Let the games begin! -->
-=======
-Thank you for choosing the Tic Tac Toe Android App. Let the games begin!
->>>>>>> ef830b881daad13266e209082af85e79a95a7edb
+Thank you for choosing the Tic Tac Toe Android App. Let the games begin  -->
