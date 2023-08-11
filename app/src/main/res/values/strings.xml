@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">ticTacToeGame</string>
     <string name="Heading">Tic Tac Toe</string>
-    <string name="Button1">Single Player</string>
-    <string name="Button2">Multiple Players</string>
+    <string name="Button1">Computer</string>
+    <string name="Button2">Friend</string>
 
 
 </resources>

@@ -41,7 +41,7 @@ public class PlayerSelection extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent(PlayerSelection.this, MainActivity.class);
-                intent.putExtra("Player One", getplayerOneName)
+//                intent.putExtra("Player One", getplayerOneName);
                 startActivity(intent);
             }
         });

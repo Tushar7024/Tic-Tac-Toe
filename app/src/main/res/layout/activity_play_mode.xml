@@ -36,7 +36,7 @@
         android:id="@+id/activeText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:fontFamily="@font/mansalva"
+        android:fontFamily="@font/jua"
         android:textColor="#B4FE17"
         android:textSize="28sp"
         app:layout_constraintBottom_toTopOf="@+id/linearLayout"

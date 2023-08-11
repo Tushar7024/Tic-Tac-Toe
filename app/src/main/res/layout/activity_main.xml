@@ -7,7 +7,7 @@
     tools:context=".splashScreen">
 
     <Button
-        android:id="@+id/cancelbtn"
+        android:id="@+id/friendbtn"
         android:layout_width="235dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="132dp"
@@ -29,7 +29,7 @@
         app:strokeWidth="0.8dp" />
 
     <Button
-        android:id="@+id/playnow2"
+        android:id="@+id/computerbtn"
         android:layout_width="235dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="132dp"
@@ -60,52 +60,5 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.202" />
-
-    <ImageView
-        android:id="@+id/imageView10"
-        android:layout_width="35dp"
-        android:layout_height="63dp"
-        android:src="@drawable/circle"
-        app:layout_constraintBottom_toBottomOf="@+id/playnow2"
-        app:layout_constraintEnd_toEndOf="@+id/playnow2"
-        app:layout_constraintHorizontal_bias="0.035"
-        app:layout_constraintStart_toStartOf="@+id/playnow2"
-        app:layout_constraintTop_toTopOf="@+id/playnow2"
-        app:layout_constraintVertical_bias="0.533" />
-
-    <ImageView
-        android:id="@+id/imageView11"
-        android:layout_width="34dp"
-        android:layout_height="60dp"
-        android:src="@drawable/cross"
-        app:layout_constraintBottom_toBottomOf="@+id/cancelbtn"
-        app:layout_constraintEnd_toEndOf="@+id/cancelbtn"
-        app:layout_constraintHorizontal_bias="0.039"
-        app:layout_constraintStart_toStartOf="@+id/cancelbtn"
-        app:layout_constraintTop_toTopOf="@+id/cancelbtn" />
-
-    <ImageView
-        android:id="@+id/imageView13"
-        android:layout_width="35dp"
-        android:layout_height="63dp"
-        android:src="@drawable/circle2"
-        app:layout_constraintBottom_toBottomOf="@+id/cancelbtn"
-        app:layout_constraintEnd_toEndOf="@+id/cancelbtn"
-        app:layout_constraintHorizontal_bias="0.965"
-        app:layout_constraintStart_toStartOf="@+id/cancelbtn"
-        app:layout_constraintTop_toTopOf="@+id/cancelbtn"
-        app:layout_constraintVertical_bias="0.4" />
-
-    <ImageView
-        android:id="@+id/imageView14"
-        android:layout_width="35dp"
-        android:layout_height="63dp"
-        android:src="@drawable/cross2"
-        app:layout_constraintBottom_toBottomOf="@+id/playnow2"
-        app:layout_constraintEnd_toEndOf="@+id/playnow2"
-        app:layout_constraintHorizontal_bias="0.97"
-        app:layout_constraintStart_toStartOf="@+id/playnow2"
-        app:layout_constraintTop_toTopOf="@+id/playnow2"
-        app:layout_constraintVertical_bias="0.466" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
