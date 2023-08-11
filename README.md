@@ -43,7 +43,7 @@ You will need Android Studio 2022.2.1 Patch 2 or above.
 
 This app is developed under the guidance of [Shivansh Gupta](http://gshivg.me/github), head of App Development at [Devoic](https://www.linkedin.com/company/thedevoic/).
 
-## Contact us
+<-- ## Contact us
 
 
 If you have any questions, suggestions, or feedback, please feel free to contact us:
@@ -52,4 +52,4 @@ If you have any questions, suggestions, or feedback, please feel free to contact
 - LinkedIn: [https://www.linkedin.com/in/tushar-partiar-b30459255/](https://www.linkedin.com/in/tushar-patidar-b30459255/)
 - GitHub: [https://github.com/Tushar7024](https://github.com/Tushar7024)
 
-Thank you for choosing the Tic Tac Toe Android App. Let the games begin!
+Thank you for choosing the Tic Tac Toe Android App. Let the games begin! -->
